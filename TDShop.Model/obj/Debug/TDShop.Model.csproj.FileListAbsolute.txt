@@ -1,0 +1,12 @@
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\TDShop.Model.dll.config
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\TDShop.Model.dll
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\TDShop.Model.pdb
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\EntityFramework.dll
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\EntityFramework.xml
+D:\Project C#\TDShop\TDShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project C#\TDShop\TDShop.Model\obj\Debug\TDShop.Model.csprojAssemblyReference.cache
+D:\Project C#\TDShop\TDShop.Model\obj\Debug\TDShop.Model.csproj.CoreCompileInputs.cache
+D:\Project C#\TDShop\TDShop.Model\obj\Debug\TDShop.Model.csproj.CopyComplete
+D:\Project C#\TDShop\TDShop.Model\obj\Debug\TDShop.Model.dll
+D:\Project C#\TDShop\TDShop.Model\obj\Debug\TDShop.Model.pdb

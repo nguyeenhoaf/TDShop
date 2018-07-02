@@ -1,0 +1,15 @@
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Service.dll
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Service.pdb
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Common.dll
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Data.dll
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Model.dll
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Common.pdb
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Data.pdb
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Data.dll.config
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Model.pdb
+D:\Project C#\TDShop\TDShop.Service\bin\Debug\TDShop.Model.dll.config
+D:\Project C#\TDShop\TDShop.Service\obj\Debug\TDShop.Service.csprojAssemblyReference.cache
+D:\Project C#\TDShop\TDShop.Service\obj\Debug\TDShop.Service.csproj.CoreCompileInputs.cache
+D:\Project C#\TDShop\TDShop.Service\obj\Debug\TDShop.Service.csproj.CopyComplete
+D:\Project C#\TDShop\TDShop.Service\obj\Debug\TDShop.Service.dll
+D:\Project C#\TDShop\TDShop.Service\obj\Debug\TDShop.Service.pdb

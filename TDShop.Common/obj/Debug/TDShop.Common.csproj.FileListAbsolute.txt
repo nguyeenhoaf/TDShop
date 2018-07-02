@@ -1,0 +1,6 @@
+D:\Project C#\TDShop\TDShop.Common\bin\Debug\TDShop.Common.dll
+D:\Project C#\TDShop\TDShop.Common\bin\Debug\TDShop.Common.pdb
+D:\Project C#\TDShop\TDShop.Common\obj\Debug\TDShop.Common.csprojAssemblyReference.cache
+D:\Project C#\TDShop\TDShop.Common\obj\Debug\TDShop.Common.csproj.CoreCompileInputs.cache
+D:\Project C#\TDShop\TDShop.Common\obj\Debug\TDShop.Common.dll
+D:\Project C#\TDShop\TDShop.Common\obj\Debug\TDShop.Common.pdb
